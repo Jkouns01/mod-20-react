@@ -1,4 +1,6 @@
 # mod-20-react
+<h2> some commit issue occured. Please refer to the new repo.</h2>
+
 <p>
 GIVEN a single-page application portfolio for a web developer <br>
 WHEN I load the portfolio <br>
